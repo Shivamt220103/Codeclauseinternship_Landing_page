@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url("s10.jpg") no-repeat center/cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.q{
+    height:50px;
+    width: 100%;   
+}
+
+div ul{
+    margin: 10px 0px;
+    padding: 0;
+    
+}
+
+div li{
+
+    display: inline;
+    float: center;
+    margin: 10px;
+    
+}
+a:hover{
+  color: bisque;
+}
+
+div a{
+    font-size: 21px;
+    display: inline-block;
+    color: rgb(152, 172, 182);
+    font-weight: bolder;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.b{
+    font-size: 18px;
+    margin-right: 800px;
+    margin-top: 90px;
+    padding: 20px;
+     text-align: left;
+    font-family: cursive;
+    color: rgb(234, 236, 234);
+    
+}
+
+.sd{
+    color: rgb(199, 219, 15);
+}
+
+.x{
+    margin-left: 710px;
+    margin-top: 70px;
+    font-size: large;
+    color: aliceblue;
+}
